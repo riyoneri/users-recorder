@@ -1,0 +1,46 @@
+.form {
+    padding: 15px 20px;
+}
+
+.form div {
+    margin: 10px auto;
+}
+
+.form div label,
+.form div input {
+    display: block;
+}
+
+.form div label {
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 3px;
+}
+
+.form div input {
+    width: 100%;
+    /* border: 1px solid black; */
+    height: 20px;
+    font-size: 10px;
+    padding-left: 5px;
+}
+
+.form div span {
+    font-size: 9px;
+}
+
+.form div button {
+    padding: 5px 10px;
+    color: white;
+    background: rgb(35, 0, 99);
+    border: none;
+    border-radius: 5px;
+}
+
+form div span {
+    color: red
+}
+
+.invalid {
+    border: 1px solid red;
+}

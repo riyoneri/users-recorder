@@ -1,0 +1,12 @@
+.container {
+    padding: 10px 20px;
+}
+
+.container-inside {
+    border: 1px solid gray;
+    padding: 3px 8px;
+}
+
+.container-inside span {
+    font-weight: 700;
+}
